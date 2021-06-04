@@ -1,4 +1,4 @@
-package api.springbootstarter.topic;
+package rest.exercise.jpaapirest.topic;
 
 import org.springframework.data.repository.CrudRepository;
 

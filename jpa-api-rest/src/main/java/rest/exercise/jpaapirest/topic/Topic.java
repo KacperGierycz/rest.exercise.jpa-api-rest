@@ -1,4 +1,4 @@
-package api.springbootstarter.topic;
+package rest.exercise.jpaapirest.topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
